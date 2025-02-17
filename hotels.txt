@@ -1,0 +1,65 @@
+{
+    "H1": {
+        "name": "Hotel Valles",
+        "location": "Mexico City",
+        "rooms": 200,
+        "reservations": []
+    },
+    "H2": {
+        "name": "Sunset Inn",
+        "location": "Los Angeles",
+        "rooms": 150,
+        "reservations": [
+            "C1",
+            "C5"
+        ]
+    },
+    "H3": {
+        "name": "Hotel del Mar",
+        "location": "Barcelona",
+        "rooms": 180,
+        "reservations": []
+    },
+    "H4": {
+        "name": "Mountain Lodge",
+        "location": "Denver",
+        "rooms": 120,
+        "reservations": []
+    },
+    "H5": {
+        "name": "Hotel Estrella",
+        "location": "Buenos Aires",
+        "rooms": 250,
+        "reservations": []
+    },
+    "H6": {
+        "name": "Ocean Breeze Resort",
+        "location": "Miami",
+        "rooms": 300,
+        "reservations": []
+    },
+    "H7": {
+        "name": "Gran Hotel Central",
+        "location": "Madrid",
+        "rooms": 220,
+        "reservations": []
+    },
+    "H8": {
+        "name": "Skyline Suites",
+        "location": "Chicago",
+        "rooms": 130,
+        "reservations": []
+    },
+    "H10": {
+        "name": "Rustic Retreat",
+        "location": "London",
+        "rooms": 140,
+        "reservations": []
+    },
+    "H11": {
+        "name": "La Tregua",
+        "location": "San Luis Potosi",
+        "rooms": 80,
+        "reservations": []
+    }
+}

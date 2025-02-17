@@ -1,0 +1,42 @@
+{
+    "C1": {
+        "name": "Hector Segura",
+        "contact": "48110731610"
+    },
+    "C2": {
+        "name": "Maria Gonzalez",
+        "contact": "55510437892"
+    },
+    "C3": {
+        "name": "Steve McKaine",
+        "contact": "3125678901"
+    },
+    "C4": {
+        "name": "Isabella Ramirez",
+        "contact": "9841234567"
+    },
+    "C5": {
+        "name": "Daniel Thompson",
+        "contact": "2128765432"
+    },
+    "C6": {
+        "name": "Sofia Martinez",
+        "contact": "6649081723"
+    },
+    "C7": {
+        "name": "Matthew Johnson",
+        "contact": "4159927364"
+    },
+    "C8": {
+        "name": "Camila Fernandez",
+        "contact": "7293485567"
+    },
+    "C10": {
+        "name": "Valentina Torres",
+        "contact": "5589763421"
+    },
+    "C11": {
+        "name": "Tycho Brahe",
+        "contact": "4811231923"
+    }
+}

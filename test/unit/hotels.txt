@@ -1,0 +1,10 @@
+{
+    "H1": {
+        "name": "Grand Hotel",
+        "location": "NY",
+        "rooms": 2,
+        "reservations": [
+            "C1"
+        ]
+    }
+}
